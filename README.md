@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Lazarte</h1>
 <h3 align="center">A passionate Sysadmin and DepsOps from Argentina 🇦🇷  </h3>
  
-- 🔭 I’m currently working on **Oracle Argentina.**
+- 🔭 I’m currently working on **BBVA Argentina.**
 
 - 🌱 I’m currently learning **AWS, GCP etc.**
 
